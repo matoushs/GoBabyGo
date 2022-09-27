@@ -1,0 +1,16 @@
+export default {
+  flamingo:  { color: '#FF5A5F' },
+  cinnamon: { color: '#E94F37' },
+  mandarin:  { color: '#FA9D37' },
+  gold: { color: '#FAA916' }, 
+  thistle: { color: '#E9D2F4' },
+  mint:  { color: '#B2FFA8' },
+  pea: { color: 'EDFF71' },
+  teaGreen:  { color: '#D0FFB7' },
+  navy:  { color: '#0D0C1D' },
+  prussian: { color: '#153243' },
+  khaki:  { color: '#ECEBE4' },
+  grey:  { color: '#EDEDED' },
+  paleGrey:  { color: '#FAFAFF' },
+  alabaster: { color: '#EEF0EB' },
+}

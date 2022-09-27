@@ -1,0 +1,10 @@
+node_modules/
+.expo/
+.expo-shared/
+.idea
+node_modules/
+package-lock.json
+yarn.lock
+
+# macOS
+.DS_Store
